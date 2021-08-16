@@ -16,7 +16,8 @@
 ![Noman Ishaq stats](https://github-readme-stats.vercel.app/api?username=nomanishaq&show_icons=true&theme=radical)
 
 
-<h2><a href="https:www.nomanishaq.netlify.app">Noman Ishaq Portfolio</a></h2>
+<h2>Portfolio</h2>
+<p><a href="https:www.nomanishaq.netlify.app">View Noman Portfolio</a></p>
 
 <h3>Connect me on social life</h3>
 
