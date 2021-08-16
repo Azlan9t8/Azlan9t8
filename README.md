@@ -8,8 +8,8 @@
 
 
 
-![Noman Ishaq stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Noman Ishaq stats](https://github-readme-stats.vercel.app/api?username=nomanishaq&show_icons=true&theme=radical)
 
 
 
-![Noman Ishaq GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Noman Ishaq GitHub stats](https://github-readme-stats.vercel.app/api?username=nomanishaq&theme=dark&show_icons=true)
