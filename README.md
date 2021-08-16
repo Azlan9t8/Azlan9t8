@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Ishaq</h1>
-<h3 align="center">(Full Stack Developer) </h3>
+<p align="center">(Full Stack Developer) </p>
 
 <h2>About</h2>
 <p>This is me Noman ishaq Full Stack Developer. I have 3+ year's experience in multiple technologies </p>
