@@ -17,7 +17,7 @@
 
 
 <h2>Portfolio</h2>
-<p><a href="https://www.nomanishaq.netlify.app" target="_blank">View Noman Portfolio</a></p>
+<p><a href="https://nomanishaq.netlify.app/" target="_blank">View Noman Portfolio</a></p>
 
 <h3>Connect me on social life</h3>
 
