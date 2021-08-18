@@ -36,6 +36,7 @@
 <li>C#</li>
 <li>Sql server</li>
 <li>Asp.Net (MVC)</li>
+<li>My Sql</li>
 <li>Php</li>
 <li>Laravel</li>
 </ul>  
