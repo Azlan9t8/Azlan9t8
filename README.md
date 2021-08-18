@@ -38,10 +38,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomanishaq&show_icons=true&locale=en&layout=compact" width="100" alt="nomanishaq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomanishaq&show_icons=true&locale=en&layout=compact" width="100%" alt="nomanishaq" /></p>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanishaq&" alt="nomanishaq" width="100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanishaq&" alt="nomanishaq" width="100%" /></p>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
