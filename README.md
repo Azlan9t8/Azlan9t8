@@ -30,7 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <h1 align="center">Hi 👋, I'm Noman Ishaq</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="center">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</p>
+<p align="left">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</p>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
