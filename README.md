@@ -11,6 +11,7 @@
 
 <img width="55%" align="right" alt="Noman Ishaq" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg" height="20%" />
 
+<br/>
 
 - 🔭 I’m currently working as a Freelancer.
 
