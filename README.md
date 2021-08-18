@@ -15,9 +15,9 @@
 - 💬 Talk to me about  Frontend Development, JavaScript, React.js ,Php, Open Source 
 
 <br/>
-<h1 align="left">Skills:<img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h1>
+<h2 align="left">Skills:<img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 
-<h2>Html 5, Css3, Javascript</h2>
+<h3>Html 5, Css3, Javascript</h3>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanishaq&" alt="nomanishaq" width="100%" /></p>
