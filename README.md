@@ -52,3 +52,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://fb.com/nomanishaq2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nomanishaq2" height="30" width="40" /></a>
 <a href="https://instagram.com/noman_ishaq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noman_ishaq_" height="30" width="40" /></a>
 </p>
+
+<br/>
+<h3 align="left">Website:</h3>
+<a href="https://nomanishaq.netlify.app/" target="blank">https://nomanishaq.com/</a>
