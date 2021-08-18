@@ -8,7 +8,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Noman Ishaq" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg height="20%" />
+<img width="55%" align="right" alt="Noman Ishaq" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg" height="20%" />
 
 
 - 🔭 I’m currently working on My Blog, Github Project
