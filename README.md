@@ -39,7 +39,7 @@
 <li>Laravel</li>
 </ul>  
 
-<br/><br/>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanishaq&" alt="nomanishaq" width="100%" /></p>
 
 <br/>
