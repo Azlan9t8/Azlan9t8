@@ -8,7 +8,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Noman Ishaq" src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t1.6435-9/186477928_990407038385447_891981654885824324_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHwFDsCL3ktXtcwyZY28ZuwyOfg5Wa8E3jI5-DlZrwTeDn7RGDMGGDQJRMgfpZ3hxAmfZSuqOOh48fyKXE1YPkn&_nc_ohc=bWJ2Ifnt2mAAX_o33J4&_nc_ht=scontent.fkhi22-1.fna&oh=089aeb8523018f274a7ed046a09cb18c&oe=61411985" width="20%" />
+<img width="55%" align="right" alt="Noman Ishaq" src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t1.6435-9/44490354_348246289268195_3614647190732931072_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEiADV48xZqoftXWwg-UJGZNE-C2MnTskI0T4LYydOyQil0hVAz938qXIUHAThjELkbUfEDujYOzTRYrkBosDXB&_nc_ohc=vQ7GXA8ZbPUAX_Jhphh&_nc_ht=scontent.fkhi22-1.fna&oh=5a67679447923b87b9cf73753615706e&oe=6140D0DB" height="20%" />
 
 
 - 🔭 I’m currently working on My Blog, Github Project
