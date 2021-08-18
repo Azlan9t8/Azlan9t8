@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Noman Ishaq</h1>
 <h3 align="center">< Full Stack Web Developer) /></h3>
 
-<p align="left">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</p>
+<p align="left">Hi Everyone, I am a Front End / Full Stack Web Developer with 3+ years of experience building web Development.
+
+</p>
 
 <br/>
 
