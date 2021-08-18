@@ -8,7 +8,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Noman Ishaq" src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t1.6435-9/44490354_348246289268195_3614647190732931072_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEiADV48xZqoftXWwg-UJGZNE-C2MnTskI0T4LYydOyQil0hVAz938qXIUHAThjELkbUfEDujYOzTRYrkBosDXB&_nc_ohc=vQ7GXA8ZbPUAX_Jhphh&_nc_ht=scontent.fkhi22-1.fna&oh=5a67679447923b87b9cf73753615706e&oe=6140D0DB" height="20%" />
+<img width="55%" align="right" alt="Noman Ishaq" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg height="20%" />
 
 
 - 🔭 I’m currently working on My Blog, Github Project
@@ -20,7 +20,7 @@
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
 <br/>
-<h1 align="left">Skills:</h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<h1 align="left">Skills:</h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 <br/>
 
