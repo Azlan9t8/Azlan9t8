@@ -17,7 +17,7 @@
 <br/>
 <h2 align="left">Skills:<img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 
-<h3>Html 5, Css3, Javascript</h3>
+<h3>Html-5, Css, JavaScript, Bootstrap, Jquery, Css Flex, Saas, Es6, React.js, Angular.js, TypeScript, Node.js, Firebase C#, Sql server, Asp.Net (MVC), Php, Laravel,  t</h3>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanishaq&" alt="nomanishaq" width="100%" /></p>
