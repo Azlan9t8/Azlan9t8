@@ -35,7 +35,8 @@
 <li>Firebase</li>
 <li>C#</li>
 <li>Sql server</li>
-<li>Asp.Net (MVC)Php</li>
+<li>Asp.Net (MVC)</li>
+<li>Php</li>
 <li>Laravel</li>
 </ul>  
 
