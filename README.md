@@ -37,11 +37,11 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/azlan9t8_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Azlan9t8_" height="30" width="40" /></a>
-<a href="https://pk.linkedin.com/in/azlan-khan-90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Azlankhan" height="30" width="40" /></a>
+<a href="https://twitter.com/Azlan9t8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Azlan9t8_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/azlan-khan-90a3b6251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Azlankhan" height="30" width="40" /></a>
 
 <a href="https://www.facebook.com/profile.php?id=100072052601906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Azlankhan" height="30" width="40" /></a>
-<a href="https://instagram.com/azlan_khan_tanoli_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azlankhan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/azlan_khan_tanoli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azlankhan" height="30" width="40" /></a>
 </p>
 
  
