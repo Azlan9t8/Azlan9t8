@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Azlan Khan</h1>
 <br/>
-<p align="left">I am a Front End </p>
+<p align="left">I am a Frontend Developer</p>
 <br/>
 <h2> About US </h2>
 
