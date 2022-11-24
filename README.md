@@ -8,9 +8,9 @@
 
 <br/>
 
-- 🔭 I’m currently Frontend Developer.
+- 🔭 I’m currently Full Stack PHP developer.
 
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering.
 
 
 
@@ -29,6 +29,9 @@
 <li>XML</li>
 <li>Json</li>
 <li>advanced javascript</li>
+<li>MY SQL</li>
+<li>PHP</li>
+ <li>Laravel</li>
 </ul>  
 
 <br/>
@@ -43,6 +46,8 @@
 <a href="https://www.facebook.com/profile.php?id=100072052601906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Azlankhan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/azlan_khan_tanoli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azlankhan" height="30" width="40" /></a>
 </p>
+<h3 align="left">Website Portfolio</h3>
+<a href="https://belvilledentalazlankhan.surge.sh/" target="blank">
 
  
 
