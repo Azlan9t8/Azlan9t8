@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Azlan Khan</h1>
 <br/>
-<p align="left">I am a Frontend Developer</p>
+<p align="left">I am a Full stack Developer</p>
 <br/>
 <h2> About US </h2>
 
@@ -46,8 +46,8 @@
 <a href="https://www.facebook.com/profile.php?id=100072052601906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Azlankhan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/azlan_khan_tanoli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azlankhan" height="30" width="40" /></a>
 </p>
-<h3 align="left">Website Portfolio</h3>
-<a href="https://belvilledentalazlankhan.surge.sh/" target="blank">
+
+
 
  
 
